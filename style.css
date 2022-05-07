@@ -8,7 +8,7 @@
   font-size: 62.5%;
   /*1rem = 10px*/
 
-  --hue: 0;
+  --hue: 290;
 
   --primary-color: hsla(var(--hue), 100%, 26%);
   --headline: hsla(210, 11%, 15%);
